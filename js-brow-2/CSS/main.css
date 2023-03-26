@@ -1,0 +1,7 @@
+ul{
+    list-style: none;
+}
+#tareacreada:checked + label{
+    text-decoration: line-through;
+
+}
